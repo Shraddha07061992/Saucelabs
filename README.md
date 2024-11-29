@@ -15,3 +15,5 @@ selected random three items
 checked added cart
 checkout process 
 verified order placed or not 
+
+to run test use command - python3 -m pytest -v -s Webapp/Saucelabs/Test/test_addtocart_checkout_process.py
